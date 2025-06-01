@@ -25,7 +25,7 @@ This tool gives you an edge in the hero selection race by instantly clicking whe
 
 1. Run the script:
    ```
-   python "Marvels Auto Confirm.py"
+   python MarvelRivalsHeroSniper.py
    ```
 2. In the hero selection screen, quickly move your cursor over your desired hero
 3. Position your cursor precisely where the yellow confirmation button will appear
