@@ -23,11 +23,11 @@ This tool gives you an edge in the hero selection race by instantly clicking whe
 
 ## Usage
 
-1. Run the script:
+1. Run the script as administrator:
    ```
    python MarvelRivalsHeroSniper.py
    ```
-2. In the hero selection screen, quickly move your cursor over your desired hero
+2. In the hero selection screen, select your desired hero
 3. Position your cursor precisely where the yellow confirmation button will appear
 4. When another player tries to select the same hero, or when you need to quickly confirm, the yellow button will appear and the tool will instantly click it
 5. The program automatically exits after successfully sniping the hero
@@ -38,7 +38,8 @@ The script continuously monitors the RGB color value of the pixel under your cur
 
 ## Tips
 
-- Run the tool just before entering a match or during hero selection phase
+- Run the tool just before entering a match or during the hero ban phase
+- Pre-select your desired hero before the ban phase begins
 - Pre-position your cursor where the confirmation button will appear for your desired hero
 - For popular heroes that get picked quickly, this tool gives you a crucial speed advantage
 - To abort the program at any time, press Ctrl+C
