@@ -4,7 +4,7 @@ A utility that helps you quickly secure your preferred hero in Marvel Rivals bef
 
 ## Description
 
-This tool gives you an edge in the hero selection race by instantly clicking when the yellow confirmation button appears. By automating the confirmation click, you can snipe heroes that other players might be planning to pick, ensuring you get your preferred character.
+This tool gives you an edge in the hero selection race by instantly clicking when the yellow confirmation button appears after the ban phase. By automating the confirmation click, you can snipe heroes that other players might be planning to pick, ensuring you get your preferred character.
 
 ## Requirements
 
